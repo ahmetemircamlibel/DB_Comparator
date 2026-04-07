@@ -1,0 +1,8 @@
+sqlalchemy
+pandas
+openpyxl
+python-dotenv
+psycopg2-binary
+XlsxWriter
+customtkinter
+packaging
